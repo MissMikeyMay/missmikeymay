@@ -6,7 +6,7 @@
 body {
   width: 100%;
   height: 100%;
-  font-family: 'Karma', serif;
+  font-family: 'Scope One', serif;
   color: white;
   background-color: black;
 }
@@ -55,7 +55,7 @@ a:focus {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: uppercase;
-  font-family: 'Passion One', cursive;
+  font-family: 'Bigshot One', cursive;
   background-color: black;
 }
 .navbar-custom .navbar-toggle {
@@ -136,6 +136,8 @@ a:focus {
 }
 .intro .intro-body .brand-heading {
   font-size: 40px;
+  text-shadow: 2px 2px 2px #aaa;
+
 }
 .intro .intro-body .intro-text {
   font-size: 16px;
