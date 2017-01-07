@@ -30,7 +30,7 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
-@media (min-width: 768px) {
+@media (min-width: 481px) {
   p {
     margin: 0 0 35px;
     font-size: 20px;
@@ -55,7 +55,7 @@ a:focus {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: uppercase;
-  font-family: 'Passion One', cursive;
+  font-family: 'Scope One', cursive;
   background-color: black;
 }
 .navbar-custom .navbar-toggle {
@@ -100,7 +100,7 @@ a:focus {
 .navbar-custom .nav li.active a:hover {
   color: white;
 }
-@media (min-width: 768px) {
+@media (min-width: 481px) {
   .navbar-custom {
     padding: 20px 0;
     border-bottom: none;
@@ -143,7 +143,7 @@ a:focus {
   font-weight: bold;
   font-size: 16px;
 }
-@media (min-width: 768px) {
+@media (min-width: 481px) {
   .intro {
     height: 100%;
     padding: 0;
