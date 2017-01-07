@@ -16,13 +16,13 @@ html {
 }
 h1,{
   margin: 0 0 35px;
-  font-family: 'Mr Dafoe', cursive;
+  font-family: 'Tangerine', cursive;
   font-weight: 700;
   letter-spacing: 1px;
 }
 h2,{
   margin: 0 0 35px;
-  font-family: 'Mr Dafoe', cursive;
+  font-family: 'Tangerine', cursive;
   font-weight: 700;
   letter-spacing: 1px;
 }
@@ -65,7 +65,7 @@ a:focus {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: uppercase;
-  font-family: 'Bigshot One', cursive;
+  font-family: 'Overlock CS', cursive;
   background-color: black;
 }
 .navbar-custom .navbar-toggle {
