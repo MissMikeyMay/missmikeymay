@@ -21,8 +21,8 @@ h4,
 h5,
 h6 {
   margin: 0 0 35px;
-  font-family: 'Parisienne', cursive;
-  font-weight: 800;
+  font-family: 'Alex Brush', cursive;
+  font-weight: 700;
   letter-spacing: 2px;
 }
 p {
@@ -136,8 +136,6 @@ a:focus {
 }
 .intro .intro-body .brand-heading {
   font-size: 36px;
-  text-shadow: 3px 2px white;
-
 }
 .intro .intro-body .intro-text {
   font-size: 16px;
@@ -219,11 +217,11 @@ a:focus {
   }
 }
 .content-section {
-  padding-top: 50px;
+  padding: 30px;
 }
 .widget-section {
   width: 100%;
-  padding: 50px 0;
+  padding: 30px 0;
   color: white;
   background-color: black;
   -webkit-background-size: cover;
@@ -238,7 +236,6 @@ a:focus {
 	height:0;
 	overflow:hidden;
 }
-
 .video-container iframe, .video-container object, .video-container embed {
 	position:absolute;
 	top:0;
@@ -253,7 +250,7 @@ a:focus {
 }
 @media (min-width: 350px) {
   .content-section {
-    padding-top: 100px;
+    padding: 50px;
   }
   .widget-section {
     padding: 100px 0;
@@ -307,6 +304,8 @@ footer {
 }
 footer p {
   margin: 0;
+  font-size: 14px;
+  }
 }
 ::-moz-selection {
   text-shadow: none;
