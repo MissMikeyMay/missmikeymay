@@ -1,26 +1,11 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# Miss Mikey May's Music Madness
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+This is the source code for my music site. If you happened to stumble in here, I congratulate you on having too much free time. 
 
-## Getting Started
+The site and this source code is probably not interesting at all from a geek-standpoint, it's just how I like to do things around here. 
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+I'm sure some Web developers would raise some eyebrows at some of the hacks I did, but hey it looks decent on browser and mobile so I'm happy.
 
-## Bugs and Issues
+The site was built with Jekyll and published with GitHub Pages, and the (very hacked) template is based on the awesome open-source [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) theme from the awesome open-source folks at [Start Bootstrap](http://startbootstrap.com/).
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+Licensed under Apache 2.0 (same as forked theme). 
