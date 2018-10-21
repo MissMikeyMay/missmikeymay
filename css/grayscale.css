@@ -22,8 +22,8 @@ h4,
 h5,
 h6 {
   margin: 0 0 35px;
-  font-family: 'Parisienne', cursive;
-  font-weight: 600;
+  font-family: 'Merienda', cursive;
+  font-weight: 400;
   letter-spacing: 2px;
 }
 p {
@@ -125,7 +125,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/intro-bg.jpg) no-repeat top center scroll;
+  background: linear-gradient(transparent, #000000), url("../img/intro-bg.jpg") no-repeat top center scroll; 
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
